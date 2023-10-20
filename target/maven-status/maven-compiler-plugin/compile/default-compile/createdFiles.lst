@@ -1,0 +1,6 @@
+com\example\spring\chat\config\CorsConfig.class
+com\example\spring\chat\SpringBootWebsocketApplication.class
+com\example\spring\chat\config\WsConfig.class
+com\example\spring\chat\model\ChatMessage$MessageType.class
+com\example\spring\chat\model\ChatMessage.class
+com\example\spring\chat\controller\ChatController.class
